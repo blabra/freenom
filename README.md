@@ -9,7 +9,7 @@
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/master/README_EN.md) | 中文版
 </div>
 
-[📃  前言0](#--前言)
+[📃  前言00](#--前言)
 
 [🍭  效果](#--效果)
 
